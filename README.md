@@ -1,7 +1,7 @@
 ### Hello world 🐱
 _Roses are red violets are blue, I can't sleep and so are you._
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=raisoturu.raisoturu)
+[![HitCount](http://hits.dwyl.com/raisoturu/raisoturu.svg)](http://hits.dwyl.com/raisoturu/raisoturu)
 
 ### Now Playing
 <a href="https://now-playing.anvaqta.id/now-playing?open">
