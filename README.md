@@ -13,4 +13,4 @@ _Roses are red violets are blue, I can't sleep and so are you._
     <img src="https://now-playing.anvaqta.id/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
-[![HitCount](https://hits.dwyl.com/raisoturu/raisoturu.svg)](https://hits.dwyl.com/raisoturu/raisoturu)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=raisoturu.raisoturu)
